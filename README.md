@@ -28,7 +28,7 @@ SOLID principles are object oriented design (OOD) concepts relevant to software 
 - No client should be forced to depend on methods that it does not use. It reduce the side effect and frequency of required changes by splitting the software in to multiple independent parts. 
 - ISP aims at splitting a set of actions into smaller sets so that a Class executes only the set of actions it requires.
   
-## Dependency Inversion Principle
+## [Dependency Inversion Principle](05%20-%20Dependency%20Inversion%20Principle)
 
 - High-level modules should not depend on low-level modules, both should depend on abstractions. Abstraction should not depend on abstraction.
 - DIP aims at reducing the dependency of a high-level Class on the low-level Class by introducing an interface.

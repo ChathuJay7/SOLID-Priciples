@@ -23,7 +23,7 @@ SOLID principles are object oriented design (OOD) concepts relevant to software 
 - Objects of a superclass should be replaceable with objects of its subclasses without breaking the system. If S is a subtype of T, then object of type T may be replaced with objects of type S without altering any of the desirable properties of the program. Functions that use references to base classes must be able to use  objects of the derived class without knowing it.
 -  LSP aims to enforce consistency so that the parent Class or its child Class can be used in the same way without any errors.
 
-## Interface Segregation Principle
+## [Interface Segregation Principle](04%20-%20Interface%20Segregation%20Principle)
 
 - No client should be forced to depend on methods that it does not use. It reduce the side effect and frequency of required changes by splitting the software in to multiple independent parts. 
 - ISP aims at splitting a set of actions into smaller sets so that a Class executes only the set of actions it requires.

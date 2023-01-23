@@ -18,7 +18,7 @@ SOLID principles are object oriented design (OOD) concepts relevant to software 
 - Software components should be open for extension, but not for modification. It tells to write code that able to add new functionality without changing the existing source code. OCP brings the benefit of not testing the already written and tested code when add new functionality. 
 - OCP aims to extend a Class’s behaviour without changing the existing behaviour of that Class. This is to avoid causing bugs wherever the Class is being used.
 
-## Liskov’s Substitution Principle
+## [Liskov’s Substitution Principle](03%20-%20Liskov's%20Substitution%20Principle)
 
 - Objects of a superclass should be replaceable with objects of its subclasses without breaking the system. If S is a subtype of T, then object of type T may be replaced with objects of type S without altering any of the desirable properties of the program. Functions that use references to base classes must be able to use  objects of the derived class without knowing it.
 -  LSP aims to enforce consistency so that the parent Class or its child Class can be used in the same way without any errors.

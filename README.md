@@ -1,6 +1,6 @@
 # SOLID Principles
 
-In software development, Object-Oriented Design (OOD) plays a crucial role when it comes to writing flexible, scalable, maintainable, and reusable code. There are so many benefits of using OOD but every developer should also have the knowledge of the SOLID principle for good object-oriented design in programming. The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which you should avoid in your code. Opposite of tight coupling is loose coupling and your code is considered as a good code when it has loosely-coupled classes. Loosely coupled classes minimize changes in your code.
+SOLID principles are object oriented design (OOD) concepts relevant to software development. SOLID is a structured design approach that ensures your software is modular and easy to maintain, understand, debug and refactor. SOLID helps save time and effort in both development and maintenance and also prevents your code from becoming rigid and fragile, which helps you build long-lasting software. There are so many benefits of using OOD but every developer should also have the knowledge of the SOLID principle for good object-oriented design in programming. The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which you should avoid in your code. Opposite of tight coupling is loose coupling and your code is considered as a good code when it has loosely-coupled classes. Loosely coupled classes minimize changes in your code.
 
 - S - Single Responsibility Principle (SRP)
 - O - Open Closed Principle (OCP)
@@ -10,7 +10,8 @@ In software development, Object-Oriented Design (OOD) plays a crucial role when 
 
 ## Single Responsibility Principle
 
-- Each class should be responsible for a single part or functionality of the system. A class should have only one reason to change. SRP aims to separate behaviours so that if bugs arise as a result of your change, it won’t affect other unrelated behaviours.
+- Each class should be responsible for a single part or functionality of the system. A class should have only one reason to change.
+- SRP aims to separate behaviours so that if bugs arise as a result of your change, it won’t affect other unrelated behaviours.
 
 ## Open Closed Principle
 

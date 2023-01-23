@@ -13,7 +13,7 @@ SOLID principles are object oriented design (OOD) concepts relevant to software 
 - Each class should be responsible for a single part or functionality of the system. A class should have only one reason to change.
 - SRP aims to separate behaviours so that if bugs arise as a result of your change, it won’t affect other unrelated behaviours.
 
-## Open Closed Principle
+## [Open Closed Principle](02%20-%20Open%20Closed%20Principle)
 
 - Software components should be open for extension, but not for modification. It tells to write code that able to add new functionality without changing the existing source code. OCP brings the benefit of not testing the already written and tested code when add new functionality. 
 - OCP aims to extend a Class’s behaviour without changing the existing behaviour of that Class. This is to avoid causing bugs wherever the Class is being used.

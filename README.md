@@ -8,7 +8,7 @@ SOLID principles are object oriented design (OOD) concepts relevant to software 
 - I - Interface Segregation Principle (ISP)
 - D - Dependency Inversion Principle (DIP)
 
-## Single Responsibility Principle
+[## Single Responsibility Principle]("Single%20Responsibility%20Principle")
 
 - Each class should be responsible for a single part or functionality of the system. A class should have only one reason to change.
 - SRP aims to separate behaviours so that if bugs arise as a result of your change, it won’t affect other unrelated behaviours.
